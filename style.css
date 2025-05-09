@@ -2,11 +2,11 @@
 
 :root{
     --cor-de-fundo: #301d1d;
-    --verde: #00c3ff;
+    --verde: #f812f8;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
-    --botao-inativo: rgba(16, 0, 189, 0.5);
-    --texto-fundo: rgba(28, 8, 255, 0.849);
+    --botao-inativo: rgba(189, 0, 117, 0.226);
+    --texto-fundo: rgba(196, 58, 177, 0.849);
 }
 
 body {
@@ -87,7 +87,7 @@ body {
 }
 
 button:hover {
-  ________________: #005c99;
+  ________________: #b81bb8;
 }
     color: var(--verde);
     text-transform: uppbutton {
@@ -98,7 +98,7 @@ button:hover {
 }
 
 button:hover {
-  ________________: #5fbefd;
+  ________________: #fd5ff5;
 }ercase;
 }
 
