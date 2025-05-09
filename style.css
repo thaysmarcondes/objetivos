@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:wght@400;700&family=Poppins&display=swap&#39');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:wght@400;700&family=Poppins&display=swap&#39;);
 
 :root{
     --cor-de-fundo: #301d1d;
-    --verde: #f812f859;
+    --verde: #f824ff57;
     --branco: #FFFFFF;
-    --botao-ativo: #f118f8a9;
-    --botao-inativo: rgba(255, 0, 157, 0.315);
-    --texto-fundo: rgba(151, 138, 149, 0.849);
+    --botao-ativo: #ac5c8a;
+    --botao-inativo: rgba(255, 94, 228, 0.5);
+    --texto-fundo: rgba(245, 91, 199, 0.3);
 }
 
 body {
@@ -79,27 +79,9 @@ body {
     text-align: center;
 }
 .aba-conteudo-titulo-secundario{
-    text-align: center;button {
-  background-color: ______;
-  color: ______;
-  border-radius: ______;
-  transition: ______;
-}
-
-button:hover {
-  ________________: #b81bb8;
-}
+    text-align: center;
     color: var(--verde);
-    text-transform: uppbutton {
-  background-color: ______;
-  color: ______;
-  border-radius: ______;
-  transition: ______;
-}
-
-button:hover {
-  ________________: #fd5ff5;
-}ercase;
+    text-transform: uppercase;
 }
 
 .contador{
